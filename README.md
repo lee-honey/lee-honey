@@ -17,4 +17,7 @@
 <h3>SOLVED</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
+
 </div>
