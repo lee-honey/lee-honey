@@ -1,7 +1,25 @@
-# HYUN HEE LEE
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=678FDA&height=300&section=header&text=hyunheelee&fontSize=90&animation=fadeIn&fontColor=FFFFFF)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdimplehh&count_bg=%23F1E7D6&title_bg=%23A8ECEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=tokyonight)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<br/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Androidstudio&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
+<img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+<h3>COMMIT</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=tokyonight)
+
+<h3>SOLVED</h3>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
+</div>
