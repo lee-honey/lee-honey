@@ -15,10 +15,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=tokyonight)
 
-<h3>SOLVED</h3>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
   
 <h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>
