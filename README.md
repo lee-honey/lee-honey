@@ -13,7 +13,7 @@
 <br/>
 <h3>COMMIT</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=cobalt)
 
 <h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>
 https://play.google.com/store/apps/details?id=com.Default.DreamingPet  
