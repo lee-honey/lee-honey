@@ -17,6 +17,8 @@
 
 <h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>
 https://play.google.com/store/apps/details?id=com.Default.DreamingPet  
+<h3>✈Airplane Mode✈</h3>
+https://drive.google.com/file/d/1awvakA4Ui70g79tijYBofBOzKUYLu7Cd/view?usp=sharing
 <h3>이지플러스 EasyPlus</h3>
 https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000769640
 
