@@ -15,8 +15,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=cobalt)
 <br/>
-[<h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>](https://play.google.com/store/apps/details?id=com.Default.DreamingPet)  
-[<h3>✈Airplane Mode✈</h3>](https://drive.google.com/file/d/1awvakA4Ui70g79tijYBofBOzKUYLu7Cd/view?usp=sharing)
+
+[<h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>](http://play.google.com/store/apps/details?id=com.Default.DreamingPet)  
+[<h3>✈Airplane Mode✈</h3>](http://drive.google.com/file/d/1awvakA4Ui70g79tijYBofBOzKUYLu7Cd/view?usp=sharing)
 (실행 방법 readme 참조)
 <br/><br/><br/>
 
