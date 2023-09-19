@@ -14,12 +14,10 @@
 <h3>COMMIT</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimplehh&show_icons=true&theme=cobalt)
-
-<h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>
-https://play.google.com/store/apps/details?id=com.Default.DreamingPet  
-<h3>✈Airplane Mode✈</h3>
-https://drive.google.com/file/d/1awvakA4Ui70g79tijYBofBOzKUYLu7Cd/view?usp=sharing
-<br/>(실행 방법 readme 참조)
+<br/>
+[<h3>🐩멍멍이 산책시키러 가기 🐕‍🦺</h3>](https://play.google.com/store/apps/details?id=com.Default.DreamingPet)  
+[<h3>✈Airplane Mode✈</h3>](https://drive.google.com/file/d/1awvakA4Ui70g79tijYBofBOzKUYLu7Cd/view?usp=sharing)
+(실행 방법 readme 참조)
 <br/><br/><br/>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
