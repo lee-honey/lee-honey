@@ -24,7 +24,9 @@
 (빌드 파일 실행 방법 [readme](https://github.com/dimplehh/Airplane-Mode) 참조)
 <br/><br/>
 [🐻Fill IT!💉](https://drive.google.com/file/d/1TTjlIXwjIcieniB8tNqjE7IPZ0lGoU9C/view)
-<br/><br/><br/>
+<br/><br/>
+[💧액체진입 시연영상💧](https://www.youtube.com/watch?v=uAqHSHt6CUA)
+<br/><br/>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
 
