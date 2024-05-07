@@ -30,6 +30,8 @@
 <br/><br/>
 [💧액체진입 시연영상💧](https://www.youtube.com/watch?v=uAqHSHt6CUA)
 <br/><br/>
+[스펠렁키2 모작](https://youtu.be/Qe-az1fwL18)
+<br/><br/>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
 
