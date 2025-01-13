@@ -20,17 +20,11 @@
 <br/>
 <h3>GAMES</h3>
 
-[🐩멍멍이 산책시키러 가기🐕‍🦺](http://play.google.com/store/apps/details?id=com.Default.DreamingPet)  
-<br/>
-[✈Airplane Mode✈](http://drive.google.com/file/d/1awvakA4Ui70g79tijYBofBOzKUYLu7Cd/view?usp=sharing)
-<br/>
-(빌드 파일 실행 방법 [readme](https://github.com/dimplehh/Airplane-Mode) 참조)
+[🧽Spongebob Cosmic Shake🫧](https://youtu.be/Qe-az1fwL18)
 <br/><br/>
-[🐻Fill IT!💉](https://drive.google.com/file/d/1TTjlIXwjIcieniB8tNqjE7IPZ0lGoU9C/view)
+[🕷️Kill It With Fire🔥](https://youtu.be/Qe-az1fwL18)
 <br/><br/>
-[💧액체진입 시연영상💧](https://www.youtube.com/watch?v=uAqHSHt6CUA)
-<br/><br/>
-[스펠렁키2 모작](https://youtu.be/Qe-az1fwL18)
+[💧Liquid Entry💧](https://www.youtube.com/watch?v=uAqHSHt6CUA)
 <br/><br/>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
