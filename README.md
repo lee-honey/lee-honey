@@ -20,7 +20,7 @@
 
 [🧽Spongebob Cosmic Shake🫧](https://youtu.be/mR7H6S9LxZY)
 <br/><br/>
-[🕷️Kill It With Fire🔥](https://youtu.be/wj-l2UldNO0)
+[🕷️Kill It With Fire🔥](https://youtu.be/-LCfy6fIEYU)
 <br/><br/>
 [💧Liquid Entry💧](https://www.youtube.com/watch?v=uAqHSHt6CUA)
 <br/><br/>
