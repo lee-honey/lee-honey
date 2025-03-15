@@ -22,4 +22,3 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:42.4.hyunhlee@gmail.com)](mailto:42.4.hyunhlee@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/af94dc3f80c54bf18983870eaee6ab96)](주소)
