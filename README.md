@@ -7,9 +7,9 @@
   
 ---
 ## 포트폴리오
-- 2024.11 ~ 2025.01 [🧽스폰지밥 코스믹 쉐이크🫧](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
+- 2024.11 ~ 2025.01 [🧽스폰지밥 코스믹 쉐이크🧽](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
 - 2024.07 ~ 2024.10 [🕷️킬 잇 위드 파이어🔥](https://youtu.be/4DSws225wYA) 모작 (**DirectX 11**)
-- 2024.05 ~ 2024.06 [⛏️델버🧌](https://youtu.be/Uoh0fd54lS8) 모작 (+ [맵툴](https://youtu.be/WiXiZRGAdYc)) (**DirectX 9**)
+- 2024.05 ~ 2024.06 [⛏️델버⛏️](https://youtu.be/Uoh0fd54lS8) 모작 (+ [맵툴](https://youtu.be/WiXiZRGAdYc)) (**DirectX 9**)
 - 2023.05 ~ 2023.12 [💧액체진입➡️](https://store.steampowered.com/app/2770300/_/?l=koreana) 개발 (**Unity**)  - **스팀** 출시, 인디크래프트 **TOP 20** 선정
 - 2022.03 ~ 2022.10 [👕나바타👖](https://youtube.com/shorts/8qYYUTfOXqw?si=TmOwWy_ieIwmtwI6) 개발 (**Unity**)  - ICT 이브와 공모전 **동상** (**팀장**)
 
