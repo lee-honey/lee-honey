@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&cuscomColorList=10&height=200&text=클라이언트%20개발자%20이현희&fontColor=ffffff&fontSize=50&animation=twinkling)  
 - 다양한 협업 경험을 바탕으로 여러 프로젝트를 출시한 경험이 있습니다.
-- 고급 그래픽 셰이더와 물리 엔진 기술을 신속하게 습득하 효율적으로 구현할 수 있습니다.
+- 고급 그래픽 셰이더와 물리 엔진 기술을 신속하게 습득하고 효율적으로 구현할 수 있습니다.
 - 전체 그림을 보며 세밀한 디테일을 함께 챙기는 것을 좋아합니다.
 - 효율적인 일정 관리를 통해 최적의 개발 방향을 도출하기 위해 노력합니다.
 
