@@ -19,8 +19,8 @@
 - 2023.05 ~ 2023.12 [액체진입](https://store.steampowered.com/app/2770300/_/?l=koreana) 개발 (**Unity**)  - **스팀** 출시, 인디크래프트 **TOP 20** 선정
 - 2024.03 ~ 2024.04 [스펠렁키2](https://www.youtube.com/watch?v=Qe-az1fwL18) 모작 (**WinAPI**)
 - 2024.05 ~ 2024.06 [델버](https://youtu.be/Uoh0fd54lS8) 모작 (+ [맵툴](https://youtu.be/WiXiZRGAdYc)) (**DirectX 9**)
-- 2024.11 ~ 2025.01 [스폰지밥 코스믹 쉐이크](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
 - 2024.07 ~ 2024.10 [킬 잇 위드 파이어](https://youtu.be/4DSws225wYA) 모작 (**DirectX 11**)
+- 2024.11 ~ 2025.01 [스폰지밥 코스믹 쉐이크](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
 
 ---
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
