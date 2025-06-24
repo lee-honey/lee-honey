@@ -5,13 +5,13 @@
 - 효율적인 일정 관리를 통해 최적의 개발 방향을 도출하기 위해 노력합니다.
 
 ---
-## 소개
+## ABOUT ME
 - 2018.03 ~ 2023.02 덕성여자대학교 IT미디어공학과 전공
 - 2021.03 ~ 2022.05 소프트웨어양성교육 42SEOUL 활동
 - 2022.12 ~ 2023.12 게임개발연합동아리 게임메이커스 활동
 
 ---
-## 포트폴리오
+## PROJECT
 - 2021.08 ~ 2021.10 [나만의 코엑스 꾸미기](https://www.youtube.com/watch?v=n4vxfhon-xw) 개발 (**Unity**)
 - 2021.08 ~ 2021.09 [U-hear](https://www.youtube.com/watch?v=wOdCu0C2UhQ) 개발 (**React Native**)
 - 2021.12 ~ 2022.01 [Fill It!](https://www.youtube.com/shorts/0jeFXFmU_6k) 개발 (**Unity**)
@@ -24,10 +24,11 @@
 - 2024.11 ~ 2025.01 [스폰지밥 코스믹 쉐이크](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
 
 ---
+## STACK
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
 ---
-## 채널
+## CHANNEL
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
