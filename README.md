@@ -24,11 +24,10 @@
 - 2024.11 ~ 2025.01 [스폰지밥 코스믹 쉐이크](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
 
 ---
-## STACK
+### STACK
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
----
-## CHANNEL
+### CHANNEL
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dimplehh)](https://solved.ac/dimplehh)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyunee-egeojeogeo.tistory.com/)](https://hyunee-egeojeogeo.tistory.com/)
