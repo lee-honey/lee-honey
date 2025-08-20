@@ -22,7 +22,7 @@
 - 2024.05 ~ 2024.06 [델버](https://youtu.be/Uoh0fd54lS8) 모작 (+ [맵툴](https://youtu.be/WiXiZRGAdYc)) (**DirectX 9**)
 - 2024.07 ~ 2024.10 [킬 잇 위드 파이어](https://youtu.be/4DSws225wYA) 모작 (**DirectX 11**)
 - 2024.11 ~ 2025.01 [스폰지밥 코스믹 쉐이크](https://youtu.be/mR7H6S9LxZY) 모작 (**DirectX 11**)
-- 2025.06 ~ 2025.07 [하이파이러쉬](https://github.com/lee-honey/Hifi) 모작(구현중) (**Unreal Engine**)
+- 2025.06 ~ 2025.07 [하이파이러쉬](https://github.com/lee-honey/Hifi) 모작 (**Unreal Engine**)
 
 ---
 ### STACK
